@@ -1,0 +1,3 @@
+name = "My Analyzer"
+description = "Raise my issues on deepsource"
+command = "make run-analyzer"
